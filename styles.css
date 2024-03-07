@@ -6,6 +6,11 @@
     text-align: center; /* Center-align header text */
 }
 
+body {
+    background-color: #f0fff4; /* Mint light green color */
+}
+
+
 .footer {
     background-color: #333;
     color: #fff;
